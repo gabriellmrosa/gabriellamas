@@ -1,3 +1,13 @@
 ### Hi there 👋
 
-I'm here to remind myself that I need to do a full description profile here
+Here you can find all my jobs and somethings more!
+ 
+- 🌱 I’m currently learning **Software Engineer** 🤓
+
+- 👨‍💻 All of my projects are available at [gabriellamas.com.br](https://gabriellamas.com.br)
+
+- 📫 Reach me out at **gabrielldarts@gmail.com**
+
+## 🔥 Github Stats
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellamas&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
