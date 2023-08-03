@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Here you can find all my jobs and somethings more!
+Here you can find all my jobs and something more!
 
 - 🤓 I’m a frontend developer and UX/UI Designer 
 
-- 👨‍💻 All of my projects are available at [gabriellamas.com.br](https://garosa.com.br)
+- 👨‍💻 All of my projects are available at [garosa.com.br](https://garosa.com.br)
 
 - 📫 Reach me out at **gabrielldarts@gmail.com**
 
