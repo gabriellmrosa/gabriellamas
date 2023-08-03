@@ -4,7 +4,7 @@ Here you can find all my jobs and somethings more!
 
 - 🤓 I’m a frontend developer and UX/UI Designer 
 
-- 👨‍💻 All of my projects are available at [gabriellamas.com.br](https://gabriellamas.com.br)
+- 👨‍💻 All of my projects are available at [gabriellamas.com.br](https://garosa.com.br)
 
 - 📫 Reach me out at **gabrielldarts@gmail.com**
 
